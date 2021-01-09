@@ -81,7 +81,6 @@ def runapi(apilist,a):
 
 #一次性获取access_token，降低获取率
 for a in range(1, int(app_num)+1):
-    global access_token_list
     if a == 1: 
         client_id=os.getenv('CLIENT_ID')
         client_secret=os.getenv('CLIENT_SECRET')
