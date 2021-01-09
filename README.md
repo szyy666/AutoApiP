@@ -10,8 +10,8 @@ AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApi
 ### 跳转
 * AutoApiSecret：https://github.com/wangziyingwen/AutoApiSecret
 * **常见错误及解决办法/更新日志**：https://github.com/wangziyingwen/Autoapi-test
-* 视频教程：（待补充）
-   * B站：
+* 视频教程：
+   * B站：https://www.bilibili.com/video/BV185411n7Mq/
 
 ## 步骤 ##
 * 准备工具：
@@ -183,7 +183,7 @@ __________________________________________________________________________
    
    2)修改.github/workflows/里的两个yml文件（**超过5个账号需要更改，5个及以下暂时不用修改文件，忽略这一步**）
     
-   yml文件我已经注明了，看着改就行，我已经写入5个账号了，跟着复制粘贴很简单的（没有找到比较好的自动方案）
+   yml文件我已经注明了，看着改就行，我已经写入5个账号模板了，跟着复制粘贴很简单的（没有找到比较好的自动方案）
   
 #### 超级参数设置 ####
  
